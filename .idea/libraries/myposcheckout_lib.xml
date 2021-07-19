@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="myposcheckout-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/myposcheckout-lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
